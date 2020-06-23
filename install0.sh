@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   " Learn Free Hacking"               
- echo   " Subscribe to YouTube Channel The Cyber Kiddie"                                                                    
+ echo   " Subscribe to YouTube Channel The Genius Choice"                                                                    
 echo   "####################################"
 
 echo "007"
