@@ -78,7 +78,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us The Cyber Kiddie ...we are learners dont underestimate us "
+echo " If You Connected To Internet Then u downloaded success fully subscribe us The Genius Choice ...we are learners dont underestimate us "
 
 echo " ??? now rock and hack ??? "
 
