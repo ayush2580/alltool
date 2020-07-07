@@ -61,7 +61,6 @@ apt install unzip -y
 apt install tor -y 
 apt install sudo -y
 apt install wget -y
-apt install tor -y
 apt install w3m -y
 apt install cmatrix -y
 echo  "#####################################"
@@ -71,6 +70,9 @@ echo   " we are hackers "
 apt install wcalc -y 
 apt install openssl
 apt install bmon -y
+echo  "#####################################"
+echo  "added by www.whd.biz"
+apt update && apt upgrade
 
 echo  "#####################################"
                
