@@ -72,6 +72,7 @@ apt install openssl
 apt install bmon -y
 echo  "#####################################"
 echo  "added by www.whd.biz"
+echo  "https://yourworld.webador.com/product"
 apt update && apt upgrade
 
 echo  "#####################################"
