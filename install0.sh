@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $blue 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by AYUSH KUMAR"
+echo " This Script is written by JADOOOOO"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
